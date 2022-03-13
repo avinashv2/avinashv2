@@ -1,0 +1,119 @@
+*,body *{
+    box-sizing: border-box;
+}
+body{
+    background-color: darkblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.title{
+    text-align: center;
+    color: aquamarine;
+    font-size: larger;
+    background-color:darkblue;
+}
+
+.outercon{
+    margin:0;
+    display:flex;
+    height:60vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.cell{
+    width:100px;
+    height: 100px;
+    border:1px solid;
+    font-size:5rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+}
+
+.cell.x::before{
+    color:aquamarine;
+    content:"x";
+    font-family: sans-serif,cursive;
+}
+.cell.o::before{
+    color:aqua;
+    content:"o";
+    font-family: sans-serif,cursive;
+}
+
+.container.x  .cell:not(.x):not(.o):hover::before{
+    content:"x";
+    font-family: sans-serif,cursive;
+    color:lightgrey;
+}
+.cell{
+    border-color: white;
+}
+.container.o .cell:not(.x):not(.o):hover::before{
+    content:"o";
+    font-family: sans-serif,cursive;
+    color:lightgrey;
+}
+.cell.x,.cell.o{
+    cursor:not-allowed;
+}
+.status-page{
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    right:0;
+    left:0;
+    background-color:rgba(0,0,0,0.9);
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display:none;
+}
+.restart{
+    font-size:3rem;
+    padding:1rem;
+    border-radius:1.5rem;
+    border:2px solid lightgray;
+}
+.restart:hover{
+    color:white;
+    background-color:black;
+    border:2px solid white;
+}
+.who-wins{
+    font-size:5rem;
+    font-family:cursive;
+    color:white;
+}
+.show{
+    display:flex;
+}
+
+.x-wins:before{
+    display:flex;
+    justify-content: center;
+    content:"X Wins"
+}
+.o-wins:before{
+    display:flex;
+    justify-content: center;
+    content:"O Wins"
+}
+
+.draw:before{
+    display: flex;
+    justify-content: center;
+    content:"draw";
+}

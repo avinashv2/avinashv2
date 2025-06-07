@@ -6,12 +6,22 @@ I'm a backend developer with 2 years of experience building scalable cloud-nativ
 
 ## 🔧 Tech Stack
 
+### 🛠️ Projects on GitHub
 - **Languages:** Python, JavaScript, SQL  
-- **Frameworks:** FastAPI, Node.js
-- **Cloud:** AWS Lambda, API Gateway, IAM, S3, CloudWatch, SQS, SNS, EventBridge
-- **Databases:** PostgreSQL, OpenSearch, AWS DynamoDB
-- **Tools:** GitHub, GitLab, Docker, Snyk, SonarQube
+- **Frameworks:** FastAPI
+- **Cloud:** AWS Lambda, API Gateway, IAM, CloudWatch, RDS
+- **Databases & ORM:** PostgreSQL, SQLAlchemy
+- **Tools:** GitHub, Docker
+- **GraphQL Clients:** Adriane (Python)
 
+### 💼 Professional Experience
+Technologies I’ve worked with in production:
+- **Languages:** Python, SQL
+- **Cloud:** AWS Lambda, API Gateway, IAM, CloudWatch, RDS, Opensearch, Appsync, S3, Cloudfront, SNS, SQS, Eventbridge, ECS, KMS, DynamoDB Streams
+- **Databases:** PostgreSQL, OpenSearch, AWS DynamoDB
+- **CI/CD:** GitLab CI/CD
+- **Containers:** Docker, Amazon ECS
+- **Security & code quality:** Snyk, SonarQube, Pylint, Pyright
 ---
 
 ## 🛠️ Projects

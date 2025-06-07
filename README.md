@@ -1,51 +1,53 @@
-# Hi, I'm Avinash 👋
+# 👋 Hi, I'm Avinash
 
-I'm a backend developer with 2 years of experience building scalable cloud-native applications, primarily using **Python**, **AWS**, and **PostgreSQL**. I enjoy building practical backend systems, exploring new frameworks, and automating tasks that make life easier.
+I'm a backend developer with 2 years of experience building scalable, cloud-native applications using **Python**, **AWS**, and **PostgreSQL**. I enjoy solving real-world problems through backend systems, exploring modern frameworks, and automating tasks to make development efficient and clean.
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
-### 🛠️ Projects on GitHub
-- **Languages:** Python, JavaScript, SQL  
+### 🛠️ Personal Projects
+- **Languages:** Python, JavaScript, SQL
 - **Frameworks:** FastAPI
-- **Cloud:** AWS Lambda, API Gateway, IAM, CloudWatch, RDS
+- **Cloud Services:** AWS Lambda, API Gateway, IAM, CloudWatch, RDS
 - **Databases & ORM:** PostgreSQL, SQLAlchemy
 - **Tools:** GitHub, Docker
 - **GraphQL Clients:** Adriane (Python)
 
-### 💼 Professional Experience
-Technologies I’ve worked with in production:
-- **Languages:** Python, SQL
-- **Cloud:** AWS Lambda, API Gateway, IAM, CloudWatch, RDS, Opensearch, Appsync, S3, Cloudfront, SNS, SQS, Eventbridge, ECS, KMS, DynamoDB Streams
-- **Databases:** PostgreSQL, OpenSearch, AWS DynamoDB
+### 💼 Production Experience
+- **Languages:** Python, SQL  
+- **Cloud:** AWS (Lambda, ECS, API Gateway, AppSync, CloudFront, S3, RDS, CloudWatch, IAM, KMS, SSM Parameter Store)
+- **Architecture:** Event-driven systems, Microservices, Serverless
+- **Streaming & Messaging:** DynamoDB Streams, SNS, SQS, EventBridge
+- **Databases:** PostgreSQL, DynamoDB, OpenSearch  
 - **CI/CD:** GitLab CI/CD
-- **Containers:** Docker, Amazon ECS
-- **Security & code quality:** Snyk, SonarQube, Pylint, Pyright
+- **Containers:** Docker, ECS (Fargate)  
+- **Security, Compliance & Code Quality:** NIST framework, Snyk, SonarQube, Pylint, Pyright, isort, vulture
+
 ---
 
-## 🛠️ Projects
+## 🚀 Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Prescription Management System** | Manages pharmacy inventory and prescriptions using AWS Lambda, API Gateway, and PostgreSQL | Python, AWS |
-| **JavaScript Games** | A couple of browser-based games for fun and learning | JavaScript |
+| **Prescription Management System** | Serverless system to manage pharmacy inventory and prescriptions | Python, AWS, PostgreSQL |
+| **JavaScript Games** | A couple of fun browser-based games to practice DOM, logic, and JavaScript fundamentals | JavaScript, HTML, CSS |
 
-> ⚙️ I’m currently building a EdTech Api with **GraphQL** and **FastAPI**!
+> 🏗️ Currently building an EdTech API using **FastAPI** and **GraphQL (Adriane)**.
 
 ---
 
-## 📈 Goals
+## 🎯 Goals
 
-- Grow my open-source and project portfolio  
+- Expand my open-source and project portfolio  
 - Contribute to real-world backend systems  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-v-51491a238)
-- 📬 Reach me via [GitHub Issues](https://github.com/avinashv2/AvinashV/issues)
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-v-51491a238)  
+- 💬 Reach me via [GitHub Discussions](https://github.com/avinashv2/AvinashV/issues)
 
 ---
 

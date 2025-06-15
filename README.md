@@ -10,9 +10,10 @@ I'm a backend developer with 2 years of experience building scalable, cloud-nati
 - **Languages:** Python, JavaScript, SQL
 - **Frameworks:** FastAPI
 - **Cloud Services:** AWS Lambda, API Gateway, IAM, CloudWatch, RDS
-- **Databases & ORM:** PostgreSQL, SQLAlchemy
+- **Databases & ORM:** PostgreSQL, SQLAlchemy, Redis
 - **Tools:** GitHub, Docker
 - **GraphQL Clients:** Adriane (Python)
+- **API Integration:** OAuth2, REST, GraphQL
 
 ### 💼 Production Experience
 - **Languages:** Python, SQL  
@@ -31,6 +32,7 @@ I'm a backend developer with 2 years of experience building scalable, cloud-nati
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Prescription Management System** | Serverless system to manage pharmacy inventory and prescriptions | Python, AWS, PostgreSQL |
+| **HubSpot OAuth Integration** | Designed and implemented a backend-only OAuth2 flow using FastAPI to integrate with HubSpot CRM APIs, enabling secure access to contacts and companies data | FastAPI, OAuth2, Redis |
 | **JavaScript Games** | A couple of fun browser-based games to practice DOM, logic, and JavaScript fundamentals | JavaScript, HTML, CSS |
 
 > 🏗️ Currently building an EdTech API using **FastAPI** and **GraphQL (Adriane)**.

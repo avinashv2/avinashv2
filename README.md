@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avinash
 
-I'm a backend developer with 2 years of experience building scalable, cloud-native applications using **Python**, **AWS**, and **PostgreSQL**. I enjoy solving real-world problems through backend systems, exploring modern frameworks, and automating tasks to make development efficient and clean.
+I'm a backend developer with 2 years of experience building scalable, cloud-native applications using **Python**, **AWS**, and **PostgreSQL**. I love building backend systems and I enjoy exploring modern frameworks and automating tasks to keep development efficient and hassle-free.
 
 ---
 
@@ -32,7 +32,7 @@ I'm a backend developer with 2 years of experience building scalable, cloud-nati
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Prescription Management System** | Serverless system to manage pharmacy inventory and prescriptions | Python, AWS, PostgreSQL |
-| **HubSpot OAuth Integration** | Designed and implemented a backend-only OAuth2 flow using FastAPI to integrate with HubSpot CRM APIs, enabling secure access to contacts and companies data | FastAPI, OAuth2, Redis |
+| **HubSpot Integration** | Designed and implemented a backend-only OAuth2 flow using FastAPI to integrate with HubSpot CRM APIs, enabling secure access to contacts and companies data | FastAPI, OAuth2, Redis |
 | **JavaScript Games** | A couple of fun browser-based games to practice DOM, logic, and JavaScript fundamentals | JavaScript, HTML, CSS |
 
 > 🏗️ Currently building an EdTech API using **FastAPI** and **GraphQL (Adriane)**.

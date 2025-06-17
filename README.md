@@ -17,7 +17,7 @@ I'm a backend developer with 2 years of experience building scalable, cloud-nati
 
 ### 💼 Production Experience
 - **Languages:** Python, SQL  
-- **Cloud:** AWS (Lambda, ECS, API Gateway, AppSync, CloudFront, S3, RDS, CloudWatch, IAM, KMS, SSM Parameter Store)
+- **Cloud:** AWS (Lambda, ECS, API Gateway, AppSync, CloudFront, S3, RDS, CloudWatch, IAM, KMS)
 - **Architecture:** Event-driven systems, Microservices, Serverless
 - **Streaming & Messaging:** DynamoDB Streams, SNS, SQS, EventBridge
 - **Databases:** PostgreSQL, DynamoDB, OpenSearch  

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Avinash
 
-I'm a backend developer with 2 years of experience building scalable, cloud-native applications using **Python**, **AWS**, and **PostgreSQL**. I love building backend systems and I enjoy exploring modern frameworks and automating tasks to keep development efficient and hassle-free.
+I'm a backend developer with 2 years of experience building scalable, cloud-native applications using **Python**, **AWS**, and **PostgreSQL**. I love building backend systems, enjoy exploring modern frameworks and automating tasks to keep development efficient and hassle-free.
 
 ---
 
